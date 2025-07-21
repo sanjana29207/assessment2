@@ -7,3 +7,5 @@ int main() {
 	printf("you entered:%d\n",num);
 	if(num % 2 == 0)
 		printf("even\n");
+	else
+		printf("odd\n");
