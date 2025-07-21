@@ -9,3 +9,8 @@ int main() {
 		printf("even\n");
 	else
 		printf("odd\n");
+
+	printf("thank you!\n");
+
+	return 0;
+}
