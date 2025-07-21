@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 life at amity university
 
 life at amity university is a blend of academic excellence,culture diversity,and personal growth
@@ -13,3 +14,14 @@ and various clubs that shape their personality and configuration
 
 life at amity builds not only carrer but also character,
 preparing students for the real world
+=======
+life about amity
+
+my life of aub has been full of lerarning,growth,and amazing experience
+
+made good friends and learned from passionate proffesor
+
+enjoy working on project and assessment that helps me grow technically
+
+the aub campus is equipment with modern classroom,labs,libraries,and safe
+>>>>>>> b1
